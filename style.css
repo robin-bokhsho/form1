@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: #2ECC71 ;
+}
+
+
+
+.mainbox {
+    width: 700px;
+    height: 500px;
+    margin: 100px auto;
+}
+
+.leftbox {
+    width: 350px;
+    height: 500px;
+    background-color: #3498DB  ;
+    float: left;
+    border-radius: 70px 0 0 10px;
+}
+
+.rightbox {
+    width: 350px;
+    height: 500px;
+    background-color: #F39C12 ;
+    float: left;
+    border-radius: 0px 10px 70px 0px;
+}
+
